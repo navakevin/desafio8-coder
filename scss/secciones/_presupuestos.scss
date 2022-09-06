@@ -1,0 +1,56 @@
+.main-presupuesto {
+    background-color: $colorfondo;
+
+    .Presupuesto-1 {
+        display: flex;
+        align-items: center;
+
+        h1{
+        @extend %textotitulo;
+        padding: 4rem;
+        }
+        p {
+            margin: 10px;
+            border-style: double;
+            padding: 50px;
+        }
+
+        img {
+            height: 300px;
+        }
+    }
+    .Presupuesto-2{
+        display: flex;
+        align-items: center;
+            h1{
+                @extend %textotitulo;
+                padding: 4rem;
+                @include fontstyle (underline, lighter);
+                }
+        
+        p{
+            margin: 10px;
+            border-style: double;
+            padding: 50px;
+        }
+        img{
+            height: 313px;
+        }
+    }
+    .Presupuesto-3{
+        display: flex;
+        align-items: center;
+        h1{
+            @extend %textotitulo;
+            padding: 4rem;
+            }
+        p{
+            margin: 10px;
+            border-style: double;
+            padding: 50px;
+        }
+        img{
+            height: 316px;
+        }
+    }
+}

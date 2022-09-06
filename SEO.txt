@@ -1,0 +1,9 @@
+1- coloque una etiqueta meta description en el index que dice: "Gamer Store es una pagina de armados de PC de todo tipo con presupuestos personalizados y ya armados"
+2- Coloque etiquetas meta keywords en todos los html
+
+Index: computadoras, armado, hardware, PC, gaming
+Presupuestos: "presupuesto, gamer, streamer, ofimatica, Gamer Store"
+Informacion: "informacion, hardware, aprender, motherboard, microprocesador"
+Galeria: "imagenes, galeria, trabajos, hardware, computadoras"
+Contacto: "contacto, dudas, preguntas, comunicacion, armado"
+

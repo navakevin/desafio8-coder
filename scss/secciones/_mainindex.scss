@@ -1,0 +1,17 @@
+.cuerpo{
+    background-color: $colorfondo;
+    font-weight: bold;
+    font-size: x-large;
+
+    h1 {
+        @extend %textotitulo;
+    }
+
+    h2 {
+        @extend %textotitulo
+    }
+
+    p {
+        padding: 25px;
+    }
+}

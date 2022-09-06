@@ -1,0 +1,12 @@
+.body-contacto {
+    display: grid;
+    min-height: 100vh;
+    grid-template-rows: auto 1fr auto;
+}
+
+main{
+    background-color: $colorfondo;
+    form{
+        padding-top: 25px;
+    }
+}

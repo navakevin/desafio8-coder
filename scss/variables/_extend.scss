@@ -1,0 +1,16 @@
+%textotitulo {
+    display: flex;
+    height: 7vh;
+    justify-content: center;
+    border-style: dashed;
+    background-color: #0E34A0;
+    align-items: center;
+    background-image: linear-gradient(#0E34A0, #00000054);
+}
+
+@mixin fontstyle ($decoraciontexto, $pesotexto) {
+    color: white;
+    text-decoration: $decoraciontexto;
+    font-weight: $pesotexto;
+    font-style: italic;
+}
